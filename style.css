@@ -61,7 +61,7 @@ body{
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover{
-    color: black;
+    color: orange;
 }
 
 .navbar-light .navbar-brand .navbar-link{
